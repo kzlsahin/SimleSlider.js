@@ -31,7 +31,7 @@ Two Div elements are needed to wrap the slider items.
   <script src="slider.js"></script>
   <script>
     const itemSlider = new SlidingItemsBar(3, "itemSlider");
-  <script>
+  </script>
     
   that is all. Open the page and see the items sliding. Congrats!
     
