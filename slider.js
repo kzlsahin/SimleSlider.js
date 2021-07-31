@@ -162,9 +162,3 @@ class StationarySlide {
     
 
 }
-
-const bannerSlide = new StationarySlide("trendyol");
-const categorySlider = new SlidingItemsBar(5, "categorySlider");
-const itemSlider = new SlidingItemsBar(3, "itemSlider");
-const itemSlider2 = document.getElementById("itemSlider2Container") ? new SlidingItemsBar(3, "itemSlider2"): "";
-const itemSlider3 = document.getElementById("itemSlider3Container") ? new SlidingItemsBar(3, "itemSlider3"): "";
