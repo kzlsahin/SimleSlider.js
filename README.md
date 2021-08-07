@@ -1,5 +1,5 @@
 # SimleSlider.js
-A simple Javascript implementation to create a slider bar inside an HTML page
+A simple Javascript implementation to create a slide inside an HTML page
 
 - Consist of two class definitions; one for animated sliding and the other one is for stationary slides. 
 - Both are periodically sliding with timeintervals.
