@@ -4,6 +4,8 @@ A simple Javascript implementation to create a slide inside an HTML page
 - Consist of two class definitions; one for animated sliding and the other one is for stationary slides. 
 - Both are periodically sliding with timeintervals.
 
+see in action: https://ipekevim.esersenturk.com
+
 ## HTML implementation
 
 Two Div elements are needed to wrap the slider items. 
