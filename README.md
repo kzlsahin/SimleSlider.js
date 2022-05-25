@@ -1,4 +1,4 @@
-# SimleSlider.js
+# SimpleSlider.js
 A simple Javascript implementation to create a slide inside an HTML page
 
 - Consist of two class definitions; one for animated sliding and the other one is for stationary slides. 
